@@ -16,7 +16,7 @@ first slide     *Home*, *g*
 last slide      *End*, *G*
 
 * There are fading problems on *iTerm2*, to see next slides
-  - *hit enter* and then *r*, then everything works.
+	*hit enter* and then *r*, then everything works.
 
 
 ## How to write your own presentations?
@@ -37,7 +37,7 @@ It's simple.
 * Create new directory for your presentation files
 * In new directory create new `Dockerfile` 
 
-``` { new presentation template }
+```
 FROM piotron/mdp-onbuild
 	LABEL author="<yourname>"
 	LABEL presentation_title="<your title>"
