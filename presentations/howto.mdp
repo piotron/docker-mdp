@@ -44,7 +44,7 @@ It simple.
 * In new directory create new `Dockerfile` 
 
 ~~~ { new presentation template }
-FROM piotron/mdp-onbuild
+FROM piotron/mdp:onbuild
 	LABEL author="<yourname>"
 	LABEL presentation_title="<your title>"
 ~~~~~~
