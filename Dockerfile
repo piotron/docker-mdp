@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.4
+FROM resin/armhf-alpine
 MAINTAINER Undefined Network - Piotr 'Piotron' Radosz mail@piotron.net
 
 # Put here some colors
